@@ -1,5 +1,4 @@
 # Smart Scout V5 – Support & Issues
-
 Welcome! This repository is for users to report bugs, request features, and ask questions about the **Smart Scout V5** app for VEX Robotics competitions.
 
 ## 🔧 What to do here:
@@ -22,3 +21,5 @@ If you prefer email, contact: **ejvdevs@gmail.com**
 ---
 
 Thanks for helping make Smart Scout better!
+![image](https://github.com/user-attachments/assets/0b1803e9-2efe-460f-9c98-e96ee0ccba09)
+
