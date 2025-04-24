@@ -18,7 +18,7 @@ If you prefer email, contact: **ejvdevs@gmail.com**
 ## 🔒 Privacy Policy
 [View Privacy Policy](https://docs.google.com/document/d/e/2PACX-1vQYerIUdQPwHlhUUu_9oYptk7HFg7YIrzqefwW5Arw2QF9uNaxtdU66IDws_g7sQCNQUmLtLeazooEc/pub)
 
-## 👀 Coming Soon!
+## 👀 Coming Soon
 Our goal is that we release Smart Scout on Windows, Linux, and Mac. Development is complete, and we are getting ready to publish it! Download links can be found here in the future!
 ---
 
