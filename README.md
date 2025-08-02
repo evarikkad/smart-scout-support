@@ -1,3 +1,5 @@
+## ALERT!
+Due to a problem, match predictions and other data may not be shown due to vrc-data-analysis.com being shut down.
 # Smart Scout V5 – Support & Issues
 Welcome! This repository is for users to report bugs, request features, and ask questions about the **Smart Scout V5** app for VEX Robotics competitions.
 
